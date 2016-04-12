@@ -1,4 +1,4 @@
-Attribute VB_Name = "NewMacros"
+Attribute VB_Name = "Macros"
 Sub PaperSubtitle()
 '
 ' PaperSubtitle Macro
