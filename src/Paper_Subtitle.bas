@@ -9,7 +9,7 @@ Sub PaperSubtitle()
 ' Kalkidan Zeberega
 ' Makoto Kaneko
 ' Devin Stoen
-' Duoung Bui (not verified - I only got his email address, but I believe this is his name based off of Canvas's list of people in EE393)
+' Duoung Bui (not verified - email address: dbui4, but I believe this is his name based off of his email and Canvas's list of people in EE393)
 '
  Selection.Font.Name = "Times New Roman"
     Selection.Font.Size = 14
