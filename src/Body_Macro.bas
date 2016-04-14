@@ -15,6 +15,8 @@ Sub MainHeaders_and_Body_FULLYAUTOMATIC()
     WordBasic.SelectSimilarFormatting
     Selection.Style = ActiveDocument.Styles("Heading 1")
     
+    ' This section formats the selected headings (main headings)
+    
      With ActiveDocument.Styles("Heading 1").Font
         .Name = "Times New Roman"
         .Size = 10
