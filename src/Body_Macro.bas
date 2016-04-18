@@ -1,3 +1,9 @@
+' I guess you need to add your name at the beggining of your code so that a reader will get an idea who worte it
+' Overall your comment looks great but you wrote too much info and takecare for word counts
+' You need also to have a file name that explains the work to be done. Meaning your code is not only the 
+' body but also it includes other sections. 
+' Really great job in coding the body and other sections
+
 Attribute VB_Name = "Macros"
 
 Sub MainHeaders_and_Body_FULLYAUTOMATIC()
